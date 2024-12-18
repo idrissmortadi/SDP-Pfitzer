@@ -1,0 +1,13 @@
+name: SDP
+channels:
+  - gurobi
+  - conda-forge
+dependencies:
+  - python=3.12
+  - gurobi
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
+  - notebook
